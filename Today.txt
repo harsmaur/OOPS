@@ -1,0 +1,2 @@
+HEYY THIS IS FILE HANDELLING 
+Youre learning file i/o operations 
