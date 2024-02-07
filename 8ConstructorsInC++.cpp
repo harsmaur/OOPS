@@ -83,3 +83,4 @@ int main()
      c1.printnum();
     return 0;
 }
+//paraemetrized and normal constructors
