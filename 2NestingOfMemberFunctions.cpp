@@ -37,7 +37,8 @@ void binary :: chk_bin(void)
    void binary :: onescomplement(void){
 
        chk_bin(); 
-        //in the body of the “ones_compliment” function; the “chk_bin” function is called, and as we have discussed above that if one member function 
+        //in the body of the “ones_compliment” function; the “chk_bin” function is called, and 
+        //as we have discussed above that if one member function 
        //is called inside the other member function of the same class it is called nesting of a member.        
 
        for(int i=0;i<s.length();i++)

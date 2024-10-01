@@ -16,7 +16,8 @@ class complex{
 
     }
     void setdatabysum(complex o1, complex o2){  
-        // to pass an object as parameter we have to write the class name and then the variable in the parameter
+        // to pass an object as parameter we have to write the class name and then the variable in 
+        //the parameter
 
           a = o1.a + o2.a;   // o1 ka a + o2 ka a
           b = o1.b + o2.b;   // o1 ka b + o2 ka b
@@ -37,7 +38,8 @@ int main(){
     c2.setdata(4,5);
     c2.printdata();
 
-    c3.setdatabysum(c1,c2); //passing objects c1 and c2  as function arguments to setdatabysum function //
+    c3.setdatabysum(c1,c2); 
+    //passing objects c1 and c2  as function arguments to setdatabysum function //
     c3.printdata();
 
 
